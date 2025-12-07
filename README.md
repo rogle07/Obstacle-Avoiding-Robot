@@ -42,10 +42,8 @@ Robot continues moving safely without human control.
 🌐 Web Interface
 The robot creates its own Wi-Fi hotspot:
 Copy code
-
-SSID: NovaX-AP  
-Password: novax1234  
-IP: 192.168.4.1
+ 
+IP: .........
 From the webpage, you can:
 Drive manually (Forward / Back / Left / Right / Stop)
 Rotate 360°
